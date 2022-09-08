@@ -6,7 +6,7 @@ A sentence I always wanted to hear as a child and here I am, using magic 👀
 
 
 ## About Me
-I'm a Junior Developer, frontend developement is my passion!👏🏻
+I'm a Front End Developer, frontend developement is my passion!👏🏻
 
 Crime Junkie Podcasts,
 Tea Drinker,
