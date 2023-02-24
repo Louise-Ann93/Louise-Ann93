@@ -18,9 +18,9 @@ If you wish to support me and my journey, you can do so here
 [![Coffee](https://img.shields.io/badge/Coffee.-Support%20-yellow)](https://www.buymeacoffee.com/lannwillo//)
 
 ## Skills
-Languages; JavaScript, HTML, CSS
+Languages; JavaScript, HTML, CSS, PHP
 
-Frameworks; VueJs, Tailwind CSS
+Frameworks; VueJs, Tailwind CSS, Laravel
 
 
 
