@@ -25,11 +25,8 @@ Frameworks; VueJs, Tailwind CSS, Laravel
 
 
 ## Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://madebywillo.co.uk/)
 
-^^ (work in progress)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lou-willoughby//)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louiseawilloughby//)
 
 [![DevTo](https://img.shields.io/badge/Dev.to-Follow%20Me-blueviolet?style=for-the-badge)](https://dev.to/louiseann93//)
 
