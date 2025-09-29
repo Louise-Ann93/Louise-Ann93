@@ -22,8 +22,9 @@ Also into: UX strategy · Wireframing · Figma
 
 🔗 Links
 
-LinkedIn [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louiseawilloughby//)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louiseawilloughby//)
 
-Dev.to [![DevTo](https://img.shields.io/badge/Dev.to-Follow%20Me-blueviolet?style=for-the-badge)](https://dev.to/louiseann93//)
+[![DevTo](https://img.shields.io/badge/Dev.to-Follow%20Me-blueviolet?style=for-the-badge)](https://dev.to/louiseann93//)
 
-☕ If you’d like to support my journey, you can buy me a coffee [![Coffee](https://img.shields.io/badge/Coffee.-Support%20-yellow)](https://www.buymeacoffee.com/lannwillo//)
+☕ If you’d like to support my journey, you can buy me a coffee 
+[![Coffee](https://img.shields.io/badge/Coffee.-Support%20-yellow)](https://www.buymeacoffee.com/lannwillo//)
